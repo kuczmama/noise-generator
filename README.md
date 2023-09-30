@@ -8,17 +8,17 @@ Welcome to **NoisyNest**, the open-source ambient noise generator designed to br
 
 ## Screenshots 📸
 
-<p align="center">
+<p align="left">
   <img src="images/brown-noise.png" alt="Brown Noise" width="250"/><br>
   *Brown Noise Theme*
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/white-noise.png" alt="White Noise" width="250"/><br>
   *White Noise Theme*
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/pink-noise.png" alt="Pink Noise" width="250"/><br>
   *Pink Noise Theme*
 </p>
