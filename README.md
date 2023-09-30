@@ -1,19 +1,27 @@
 # NoisyNest: Your Ambient Noise Haven 🎧
 
-![NoisyNest Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="NoisyNest Logo" width="200"/>
+</p>
 
 Welcome to **NoisyNest**, the open-source ambient noise generator designed to bring a peaceful backdrop to your busy life. Whether you're working, meditating, or simply relaxing, immerse yourself in the soothing soundscapes of NoisyNest.
 
 ## Screenshots 📸
 
-![Brown Noise](images/brown-noise.png)
-*Brown Noise Theme*
+<p align="center">
+  <img src="images/brown-noise.png" alt="Brown Noise" width="250"/><br>
+  *Brown Noise Theme*
+</p>
 
-![White Noise](images/white-noise.png)
-*White Noise Theme*
+<p align="center">
+  <img src="images/white-noise.png" alt="White Noise" width="250"/><br>
+  *White Noise Theme*
+</p>
 
-![Pink Noise](images/pink-noise.png)
-*Pink Noise Theme*
+<p align="center">
+  <img src="images/pink-noise.png" alt="Pink Noise" width="250"/><br>
+  *Pink Noise Theme*
+</p>
 
 ## Features 🎵
 - **Variety of Sounds**: Choose from classic white noise, calming pink noise, or deep brown noise.
